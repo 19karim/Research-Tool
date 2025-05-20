@@ -1,5 +1,7 @@
 # Research Tool
 
+![Screenshot](assets/screenshot.png)
+
 ## Overview
 
 The **Research Tool** is designed to assist users in generating tailored content based on a specific topic. By providing the topic, content context, and the number of paragraphs required, the tool dynamically creates a prompt to retrieve the most relevant and structured information. This tool is ideal for researchers, writers, and anyone who needs quick, concise content on a specific subject.
